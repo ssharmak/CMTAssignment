@@ -86,7 +86,7 @@ const FormScreen = () => {
           />
           <TextInput
             style={styles.input}
-            placeholder="Middle Name (Optional)"
+            placeholder="Middle Name (Required)"
             onChangeText={(text) => setForm({ ...form, middleName: text })}
           />
           <TextInput
