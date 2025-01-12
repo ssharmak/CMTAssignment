@@ -1,0 +1,9 @@
+@react-native-community/datetimepicker
+@expo/vector-icons
+react
+react-dom
+react-native
+react-native-gesture-handler
+react-native-reanimated
+react-navigation
+react-navigation-stack
